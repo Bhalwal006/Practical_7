@@ -1,5 +1,8 @@
-# CODEOWNERS file
-
+# Backend files
 /backend/ @org/backend
+
+# Frontend files
 /frontend/ @org/frontend
-/infra/ @org/infra
+
+# Infra files
+/infra/ @org/infra

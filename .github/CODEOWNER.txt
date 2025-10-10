@@ -1,5 +1,0 @@
-# CODEOWNERS file
-
-/backend/ @org/backend
-/frontend/ @org/frontend
-/infra/ @org/infra
